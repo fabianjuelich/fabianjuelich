@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fabianjuelich
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Automated Unit Testing
-- 💞️ I’m looking to collaborate on Just for Fun Projects
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning automated unit testing of embedded systems
+- 💞️ I’m looking to collaborate on just for fun projects
 - 📫 How to reach me: fabianjuelich@gmx.de
 
 <!---
